@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="AP.laba.5.1/AP.laba.5.1.vcxproj" Id="41011347-9ff7-4a95-92d9-7a6c28e47f87" />
+  <Project Path="UnitTest2/UnitTest2.vcxproj" />
 </Solution>
